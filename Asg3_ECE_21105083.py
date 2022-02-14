@@ -1,10 +1,6 @@
 
 ###################################### Question 1 #####################################################################
 
-from ast import Num
-from tokenize import Number
-
-
 print("\n*** Question 1 ***\n")
 # Take Input from the user.
 input_string = input("Enter a string: ")
